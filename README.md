@@ -1,4 +1,4 @@
-# My Eclipse plugin collection
+# Eclipse plugin collection
 
 ## Plugins
 
