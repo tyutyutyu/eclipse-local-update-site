@@ -26,7 +26,7 @@
 | Plugin                                                                   | Marketplace                                                                     | Update site                                                                                                              | Description               |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | [ANSI Console](http://www.mihai-nita.net/eclipse/)                       | [Marketplace](http://marketplace.eclipse.org/content/ansi-escape-console)       | [Update site](http://www.mihai-nita.net/eclipse/)                                                                        ||
-
+| [m2e Connector for the Maven Dependency Plugin](https://github.com/coderplus/m2e-maven-dependency-plugin/) | | |
 
 ## References
 
