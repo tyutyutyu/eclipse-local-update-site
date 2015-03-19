@@ -5,14 +5,10 @@
 		<property name='p2.timestamp' value='1243822502440'/>
 	</properties>
 	<children size='2'>
-		<child location='http://subclipse.tigris.org/update_1.10.x'/>
 		<child location='https://raw.githubusercontent.com/essiembre/eclipse-rbe/master/eclipse-rbe-update-site/'/>
 		<child location='https://bitbucket.org/denmiroch/jsontools/src/default/JsonSite/'/>
 		<child location='http://dadacoalition.org/yedit'/>
 		<child location='http://dist.sonar-ide.codehaus.org/eclipse/'/>
-		<child location='http://download.eclipse.org/recommenders/updates/stable/'/>
 		<child location='http://download.sigasi.com/update/mousefeed/'/>
-		<child location='https://repository.sonatype.org/content/repositories/forge-sites/m2e-extras/0.15.0/N/0.15.0.201206251206/'/>
-		<child location='http://www.mihai-nita.net/eclipse/'/>
 	</children>
 </repository>
