@@ -13,7 +13,6 @@
 		<child location='http://download.eclipse.org/recommenders/updates/stable/'/>
 		<child location='http://download.sigasi.com/update/mousefeed/'/>
 		<child location='https://repository.sonatype.org/content/repositories/forge-sites/m2e-extras/0.15.0/N/0.15.0.201206251206/'/>
-		<child location='https://repository.sonatype.org/content/repositories/forge-sites/m2e-extras/0.15.0/N/0.15.0.201206251206/'/>
 		<child location='http://www.mihai-nita.net/eclipse/'/>
 	</children>
 </repository>
